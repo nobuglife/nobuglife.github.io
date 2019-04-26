@@ -1,5 +1,6 @@
 ---
 title: Hello World!
+key: uFVnr47vESaUvyqW
 tags: php
 excerpt: 码农第一课
 ---
